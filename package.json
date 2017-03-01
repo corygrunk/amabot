@@ -1,0 +1,25 @@
+{
+  "name": "amabot",
+  "version": "1.0.0",
+  "description": "Ask Me Anything bot.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corygrunk/amabot.git"
+  },
+  "author": "Cory Grunkemeyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corygrunk/amabot/issues"
+  },
+  "homepage": "https://github.com/corygrunk/amabot#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "slapp": "^2.2.1",
+    "slapp-context-beepboop": "^1.4.0",
+    "slapp-convo-beepboop": "^1.0.1"
+  }
+}
